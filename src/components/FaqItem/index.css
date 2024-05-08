@@ -1,0 +1,36 @@
+/* Write your code here. */
+.list-container {
+  border: 2px solid #d7dae6;
+  border-radius: 10px;
+  margin: 15px;
+  padding: 15px;
+  max-width: 600px;
+  width: 100%;
+}
+.list-heading {
+  font-size: 16px;
+  margin-right: 10px;
+  color: #52606d;
+}
+.list-image {
+  width: 20px;
+}
+.list-image-button {
+  margin-left: auto;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.list-sub-container {
+  display: flex;
+  align-items: center;
+}
+.list-description {
+  font-size: 14px;
+  margin-right: 10px;
+  color: #9aa5b1;
+}
